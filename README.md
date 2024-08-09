@@ -1,4 +1,4 @@
-Music Player
+![Screenshot 2024-08-09 at 6 54 01 PM](https://github.com/user-attachments/assets/6d860e07-c331-4a64-a0b5-62289d2ec6a6)Music Player
 Overview
 The Music Player is a versatile application designed for managing and enjoying your music collection. With a user-friendly interface, it allows users to create and manage playlists, play songs on loop, and load older playlists for a seamless music experience.
 
@@ -7,6 +7,10 @@ Playlist Creation: Easily create and manage custom playlists.
 Loop Playback: Play songs on loop to enjoy your favorite tracks repeatedly.
 Load Playlists: Load and access older playlists for quick music access.
 Intuitive Interface: User-friendly design for easy navigation and control.
+
+Sample Output:
+![WhatsApp Image 2024-08-09 at 18 55 09](https://github.com/user-attachments/assets/d09aafb0-be15-49da-9ad3-5cdce77cd721)
+
 
 Installation
 
