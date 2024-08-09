@@ -1,5 +1,5 @@
-Music Player
-Overview
+Music Player :
+Overview:
 The Music Player is a versatile application designed for managing and enjoying your music collection. With a user-friendly interface, it allows users to create and manage playlists, play songs on loop, and load older playlists for a seamless music experience.
 
 Features
